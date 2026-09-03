@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>India-China Logistics Digest</title>
+<link rel="manifest" href="manifest.json" />
+<meta name="theme-color" content="#145aa0" />
+<link rel="apple-touch-icon" href="icons/icon-192.png" />
+<link rel="icon" href="icons/icon-192.png" />
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">🚢 Logi Digest</div>
+    <div class="stats">
+      <span class="stat streak" id="streakStat" title="Day streak">🔥 0</span>
+      <span class="stat points" id="pointsStat" title="Points">⭐ 0</span>
+    </div>
+  </header>
+
+  <main id="app">
+    <div id="loading" class="state-message">Loading today's news…</div>
+  </main>
+
+  <footer class="controls" id="controls" hidden>
+    <button id="backBtn" class="ctrl-btn back">‹ Back</button>
+    <div class="deck-progress" id="deckProgress">0 / 0</div>
+    <div class="forward-btns" id="forwardBtns">
+      <button id="skipBtn" class="ctrl-btn skip">✕ Skip</button>
+      <button id="readBtn" class="ctrl-btn read">✓ Got it</button>
+    </div>
+    <button id="nextBtn" class="ctrl-btn next" hidden>Next ›</button>
+  </footer>
+
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,176 @@
+:root {
+  --bg: #0f1720;
+  --card-bg: #1b2735;
+  --accent: #2f9bf0;
+  --text: #eef3f8;
+  --muted: #9fb0c0;
+  --good: #33c17a;
+  --bad: #e05a5a;
+  --gold: #f0b429;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  height: 100%;
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  overscroll-behavior: none;
+}
+
+.topbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 14px 18px;
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+}
+
+.brand { font-weight: 700; font-size: 1.05rem; }
+
+.stats { display: flex; gap: 10px; }
+
+.stat {
+  background: rgba(255,255,255,0.06);
+  border-radius: 999px;
+  padding: 4px 12px;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+main#app {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: calc(100vh - 130px);
+  padding: 20px;
+}
+
+.state-message {
+  text-align: center;
+  color: var(--muted);
+  font-size: 1.05rem;
+  max-width: 320px;
+  line-height: 1.5;
+}
+
+.deck {
+  position: relative;
+  width: 100%;
+  max-width: 380px;
+  height: 460px;
+}
+
+.card {
+  position: absolute;
+  inset: 0;
+  background: var(--card-bg);
+  border-radius: 20px;
+  padding: 22px;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.35);
+  touch-action: pan-y;
+  user-select: none;
+  transition: transform 0.25s ease, opacity 0.25s ease;
+}
+
+.card.dragging { transition: none; }
+
+.tag {
+  align-self: flex-start;
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 4px 10px;
+  border-radius: 999px;
+  background: rgba(47,155,240,0.18);
+  color: var(--accent);
+  margin-bottom: 14px;
+}
+
+.tag.spillover { background: rgba(240,180,41,0.18); color: var(--gold); }
+.tag.quiz { background: rgba(224,90,90,0.18); color: var(--bad); }
+.tag.weekly { background: rgba(51,193,122,0.18); color: var(--good); }
+
+.card h2 {
+  font-size: 1.25rem;
+  line-height: 1.35;
+  margin: 0 0 14px;
+}
+
+.card .inference {
+  font-size: 0.98rem;
+  color: var(--muted);
+  line-height: 1.5;
+  flex: 1;
+}
+
+.card .inference::before { content: "💡 "; }
+
+.card .meta {
+  font-size: 0.78rem;
+  color: var(--muted);
+  opacity: 0.75;
+  margin-top: 10px;
+}
+
+.card a.source-link {
+  font-size: 0.82rem;
+  color: var(--accent);
+  text-decoration: none;
+  margin-top: 8px;
+}
+
+.quiz-options { display: flex; flex-direction: column; gap: 8px; margin-top: 4px; }
+
+.quiz-option {
+  background: rgba(255,255,255,0.06);
+  border: 1px solid rgba(255,255,255,0.1);
+  color: var(--text);
+  padding: 10px 12px;
+  border-radius: 10px;
+  text-align: left;
+  font-size: 0.92rem;
+  cursor: pointer;
+}
+
+.quiz-option.correct { background: rgba(51,193,122,0.25); border-color: var(--good); }
+.quiz-option.wrong { background: rgba(224,90,90,0.25); border-color: var(--bad); }
+
+.controls {
+  position: fixed;
+  bottom: 0; left: 0; right: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 22px calc(14px + env(safe-area-inset-bottom));
+  background: linear-gradient(to top, var(--bg) 60%, transparent);
+}
+
+.ctrl-btn {
+  border: none;
+  border-radius: 999px;
+  padding: 14px 22px;
+  font-size: 0.95rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.ctrl-btn.skip { background: rgba(224,90,90,0.15); color: var(--bad); }
+.ctrl-btn.read { background: rgba(51,193,122,0.18); color: var(--good); }
+.ctrl-btn.back { background: rgba(255,255,255,0.06); color: var(--muted); padding: 10px 16px; font-size: 0.85rem; }
+.ctrl-btn.back:disabled { opacity: 0.35; cursor: default; }
+.ctrl-btn.next { background: rgba(47,155,240,0.2); color: var(--accent); }
+
+.forward-btns { display: flex; gap: 10px; }
+
+.deck-progress { color: var(--muted); font-size: 0.85rem; }
+
+.done-screen { text-align: center; }
+.done-screen .big-flame { font-size: 3rem; }
+.done-screen h2 { margin: 8px 0 4px; }
+.done-screen p { color: var(--muted); }
