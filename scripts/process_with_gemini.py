@@ -11,7 +11,7 @@ from google import genai
 from google.genai import types
 
 # Override with the GEMINI_MODEL env var if Google renames/retires this model later.
-MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
+MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.6-flash")
 
 FALLBACK_INFERENCE = "(inference unavailable today)"
 
