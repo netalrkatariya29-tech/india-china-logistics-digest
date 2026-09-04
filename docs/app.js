@@ -117,9 +117,18 @@ function maybeCompleteDay(state, dateKey) {
   return true;
 }
 
+function cardSpeechText(card) {
+  if (card.kind === "weekly") return `Weekly big picture. ${card.summary}`;
+  if (card.kind === "quiz") return `${card.question} Options: ${card.options.map((o) => o.text).join(". ")}`;
+  return `${card.category}. ${card.title}. ${card.inference || ""}`;
+}
+
+const speakBtnHtml = `<button class="speak-btn" id="speakBtn" aria-label="Read this card aloud" title="Read aloud">🔊</button>`;
+
 function cardTemplate(card, resolution) {
   if (card.kind === "weekly") {
     return `
+      ${speakBtnHtml}
       <div class="tag weekly">Weekly Big Picture</div>
       <h2>The bigger picture this week</h2>
       <div class="inference">${escapeHtml(card.summary)}</div>
@@ -138,6 +147,7 @@ function cardTemplate(card, resolution) {
       })
       .join("");
     return `
+      ${speakBtnHtml}
       <div class="tag quiz">Quick Quiz</div>
       <h2>${escapeHtml(card.question)}</h2>
       <div class="quiz-options">${optionsHtml}</div>
@@ -145,6 +155,7 @@ function cardTemplate(card, resolution) {
   }
   const tagClass = card.category === "Spillover" ? "tag spillover" : "tag";
   return `
+    ${speakBtnHtml}
     <div class="${tagClass}">${escapeHtml(card.category)}</div>
     <h2>${escapeHtml(card.title)}</h2>
     <div class="inference">${escapeHtml(card.inference || "")}</div>
@@ -215,6 +226,8 @@ async function main() {
   }
 
   function render() {
+    if ("speechSynthesis" in window) window.speechSynthesis.cancel();
+
     if (dayProgress.position >= deck.length) {
       if (maybeCompleteDay(state, dateKey)) saveState(state);
       renderStats(state);
@@ -230,6 +243,7 @@ async function main() {
     backBtn.disabled = dayProgress.position === 0;
 
     appEl.innerHTML = `<div class="deck"><div class="card" id="currentCard">${cardTemplate(card, resolution)}</div></div>`;
+    attachSpeakHandler(card);
 
     const alreadyResolved = card.kind === "weekly" ? weeklyAlreadySeenNow() : Boolean(resolution);
     if (card.kind === "quiz" && !resolution) {
@@ -276,6 +290,28 @@ async function main() {
     saveState(state);
     renderStats(state);
     advance();
+  }
+
+  function attachSpeakHandler(card) {
+    const btn = document.getElementById("speakBtn");
+    if (!btn) return;
+    if (!("speechSynthesis" in window)) {
+      btn.disabled = true;
+      btn.title = "Read aloud isn't supported on this browser";
+      return;
+    }
+    btn.addEventListener("click", () => {
+      if (window.speechSynthesis.speaking) {
+        window.speechSynthesis.cancel();
+        btn.textContent = "🔊";
+        return;
+      }
+      const utterance = new SpeechSynthesisUtterance(cardSpeechText(card));
+      utterance.onend = () => { btn.textContent = "🔊"; };
+      utterance.onerror = () => { btn.textContent = "🔊"; };
+      btn.textContent = "⏹";
+      window.speechSynthesis.speak(utterance);
+    });
   }
 
   function attachQuizHandlers(card) {

@@ -6,6 +6,7 @@ then deduplicates near-identical headlines and caps the total.
 """
 import hashlib
 import re
+from datetime import datetime, timedelta, timezone
 from urllib.parse import quote
 
 import feedparser
@@ -34,6 +35,18 @@ QUERIES = [
 MAX_PER_QUERY = 6
 MAX_TOTAL = 25
 
+# Google News' "when:1d" search filter is unreliable — it sometimes surfaces re-indexed
+# older articles anyway. This is the real, hard cutoff enforced in code.
+MAX_AGE_DAYS = 2
+
+
+def _entry_datetime(entry):
+    """Returns the entry's published time as a UTC datetime, or None if it can't be parsed."""
+    parsed = getattr(entry, "published_parsed", None)
+    if not parsed:
+        return None
+    return datetime(*parsed[:6], tzinfo=timezone.utc)
+
 
 def _clean_snippet(html_snippet):
     text = BeautifulSoup(html_snippet or "", "html.parser").get_text(" ", strip=True)
@@ -53,9 +66,12 @@ def _article_id(title, source, published):
 
 
 def fetch_all():
-    """Fetch every query, dedupe by normalized headline, cap the total. Returns a list of article dicts."""
+    """Fetch every query, drop anything older than MAX_AGE_DAYS, dedupe by normalized
+    headline, cap the total. Returns a list of article dicts, newest first."""
     seen_headlines = set()
     articles = []
+    cutoff = datetime.now(timezone.utc) - timedelta(days=MAX_AGE_DAYS)
+    skipped_old = 0
 
     for category, hl, gl, query in QUERIES:
         url = f"https://news.google.com/rss/search?q={quote(query)}&hl={hl}&gl={gl}&ceid={gl}:{hl.split('-')[0]}"
@@ -67,13 +83,22 @@ def fetch_all():
             print(f"  [skip] query failed ({category}): {exc}")
             continue
 
+        # Sort newest-first so MAX_PER_QUERY keeps the most recent items, not feed order.
+        entries = sorted(feed.entries, key=lambda e: _entry_datetime(e) or cutoff, reverse=True)
+
         taken = 0
-        for entry in feed.entries:
+        for entry in entries:
             if taken >= MAX_PER_QUERY:
                 break
             title = getattr(entry, "title", "").strip()
             if not title:
                 continue
+
+            entry_dt = _entry_datetime(entry)
+            if entry_dt is not None and entry_dt < cutoff:
+                skipped_old += 1
+                continue
+
             key = _normalize_headline(title)
             if key in seen_headlines:
                 continue
@@ -94,9 +119,14 @@ def fetch_all():
                 "published": published,
                 "snippet": snippet,
                 "link": link,
+                "_sort_dt": entry_dt or cutoff,
             })
             taken += 1
 
+    articles.sort(key=lambda a: a["_sort_dt"], reverse=True)
+    for a in articles:
+        del a["_sort_dt"]
     articles = articles[:MAX_TOTAL]
-    print(f"Fetched {len(articles)} deduplicated articles across {len(QUERIES)} queries.")
+    print(f"Fetched {len(articles)} deduplicated articles across {len(QUERIES)} queries "
+          f"({skipped_old} dropped for being older than {MAX_AGE_DAYS} days).")
     return articles
