@@ -1,256 +1,256 @@
 {
-  "date": "2026-10-19",
-  "generated_at": "2026-10-19T11:56:24.824133+05:30",
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T11:44:11.479457+05:30",
   "articles": [
     {
-      "id": "3dbfc03da69e",
+      "id": "db14b27a797c",
       "category": "Spillover",
-      "title": "Oil prices are falling sharply - blue News",
-      "source": "blue News",
-      "published": "Mon, 19 Oct 2026 06:17:46 GMT",
-      "snippet": "Oil prices are falling sharply blue News",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5kY3NVRXBEUkpCRWhHZHhySkR2ZjB1bTNrVjI4ai10OV9kRV9zNjhObWU2eS05TjJwZXpQaWN2WTFkUURuNWZLT2hHOWduUDZYaU8zdUh0S2gydF9Yb29reG1fRGlxUWtPZXBodlF2WjFoVEdPV2ZiZllocEs?oc=5",
-      "inference": "Lower oil prices will reduce maritime bunker costs and import fuel expenses for India and China's shipping routes."
+      "title": "Brent Crude Tops $110 to Hit Near Five-Month High, Oil May Test $120 - TradingKey",
+      "source": "TradingKey",
+      "published": "Tue, 20 Oct 2026 06:09:21 GMT",
+      "snippet": "Brent Crude Tops $110 to Hit Near Five-Month High, Oil May Test $120 TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM1dEVTgyRjZ1T21DRC1JQWh2SUJnRVRNU3FNVlhjamNhdnU5NlJmZVJ1T1h5TWxsNHh0RTdPY3F6UDBucGZMR0dNMU5kQjBoNDdQWkxYdjdEX3lZc1ZhYmZVRWp1RkloNUZUWEFKOGpWNjJqTGIxUlZ6V2R2YzJEMFBrdWZyZjdRbFBmOFJDMnFEMGVTcHJkMDRISzhzSFNiV3lyWkVLemc1by1SbmtCNHlSSTVBakRYUjYxUlhYQ1o?oc=5",
+      "inference": "(inference unavailable today)"
     },
     {
-      "id": "a78c2e1d68cf",
+      "id": "be7517ec058d",
+      "category": "Spillover",
+      "title": "Brent crude holds near five-month high on Middle East tension - Business Recorder",
+      "source": "Business Recorder",
+      "published": "Tue, 20 Oct 2026 06:08:45 GMT",
+      "snippet": "Brent crude holds near five-month high on Middle East tension Business Recorder",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYjdBYXUxLWhXUHhRQk9lYVpTQlNUREI0WjJocEVBUFhuQUZYNFptdVkzUHh1XzZnQ1U5U05FcXI2VG5EQjVtbTVnU1k0TUhBcDE1SUxpMEZ6OWtPV0dsb3hTdk9DNjJXaFZKRlNUZ1M3LWFzZ3ItLURuc05DVkN5Rm1tVXk5YlBoV25KNGVKS0gybFcyRkxCdmp1T01FSGg3eE8w0gFWQVVfeXFMUDZKOS1NY2tUU1VhZEZWeGJRMFBJMllpa2JURzdGOUJCSEcwMVFqaFVQS0VQVURIRWJGVlgzX2h0V01LcHFqeWk3c3g0aDBCbTNvWWVFWlE?oc=5",
+      "inference": "(inference unavailable today)"
+    },
+    {
+      "id": "807a3f299dcc",
       "category": "China Logistics",
-      "title": "North Korea-China trade soared to $300M last month ahead of bridge opening: Data - NK News",
-      "source": "NK News",
-      "published": "Mon, 19 Oct 2026 06:17:26 GMT",
-      "snippet": "North Korea-China trade soared to $300M last month ahead of bridge opening: Data NK News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZWpBT1p2Ny1RTzFFVGpwdEFmVmNVdDRQYm9oeUg5bm0zMXM3RUVsUDFfd01TRmEwZ3ptUHBjQ183OEFiOFlqbDh5RlNKWW03a3JfbmxXU3NVenF3dEVTbzJpS0ludTRWamVoSjFwOEJIZnBmeXVZMnhNeWgyRGpreGw1SWJlOUs5aGM1U1Y5eXpxNE9KeDJqbk1YMk90c2lyODBGRGFqN2x3WEZKMGE4?oc=5",
-      "inference": "Expanding cross-border infrastructure with North Korea boosts China's northeastern land border trade capacity and regional freight flows."
+      "title": "China Shenhua stock pre-market at EUR 4.73: integrated coal group - ad-hoc-news.de",
+      "source": "ad-hoc-news.de",
+      "published": "Tue, 20 Oct 2026 05:40:35 GMT",
+      "snippet": "China Shenhua stock pre-market at EUR 4.73: integrated coal group ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOT0ZLbjJ4Y3V4THd5M1pRWTVLTHVCcGVrUEM2enlJZ1dmN2N3UDVYTmJrZGRVMU04OElzb3JYZ0ZQbzBIc3U5SUFfbnZTWFhuV0k5RUk4S0lXYWVLeUJHVXY5WUtGc2E3RUFfU2FwT0F2OS1aRERCcVJjWEdaQVRLdG5zNkJWcHYzZjVQUW5jbFBQT21OUTFodWF6Y3FNN0Q3WkpESEZydFFiVG43RXRRWUhYZ3VmSHRFNGxuQkdUaw?oc=5",
+      "inference": "(inference unavailable today)"
     },
     {
-      "id": "010855e5a244",
-      "category": "China Logistics",
-      "title": "Pakistan-China hockey ties gain momentum as Guangdong team arrives - | Associated Press Of Pakistan",
-      "source": "| Associated Press Of Pakistan",
-      "published": "Mon, 19 Oct 2026 06:14:53 GMT",
-      "snippet": "Pakistan-China hockey ties gain momentum as Guangdong team arrives | Associated Press Of Pakistan",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcEhieVl6Nk00a0FoOUlQLXRqNlZKTFNhc1FTS2M1aWNFWVJsVWJKTktjbm8tS1N3dFVIOWF3LURYcHVfTlZYXzM5QS1vSjhkQWlQbUR2MzZxQnh1VDZ5cldCV0pmM29mZkJOX1hIMGRNdDFUOHpIVGpJWlZJUzRaMzh4ZV9SbmRFWDN5UWtmV081c3FUSV9KZlNMMEFfUQ?oc=5",
-      "inference": "Sports diplomacy has negligible direct impact on bilateral commercial trade or supply chain logistics between Pakistan and China."
-    },
-    {
-      "id": "7a61d7b91866",
-      "category": "Spillover",
-      "title": "Sri Lanka sees foreign buying in rupee bonds for third week - EconomyNext",
-      "source": "EconomyNext",
-      "published": "Mon, 19 Oct 2026 06:08:18 GMT",
-      "snippet": "Sri Lanka sees foreign buying in rupee bonds for third week EconomyNext",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMmp6NUdHUHY4ZDFhN0xDZ19FZUstRkVTM3dEOEFyRlVsRW4xY2kxTklYMERvRGMxSDF0NUFWeHI5MXdPRWJPNkVIb0ZTUE1YNFRxa3paOGRNNVVKRllFUmJzWW1uY3ppNWJjTC0tMUsyNTJrMG1QREg4ZDcxV3Mzd0RDWHo3Tk4wd0dUdmx6TVRjUXB1QXc?oc=5",
-      "inference": "Capital inflows stabilize Sri Lanka's economy, supporting its regional port hub operations vital for South Asian maritime trade."
-    },
-    {
-      "id": "76613f65bd8a",
-      "category": "Spillover",
-      "title": "Natural Gas and Oil Forecast: Tanker Attacks Rattle Gulf, Can WTI Break $98.31? - FXEmpire",
-      "source": "FXEmpire",
-      "published": "Mon, 19 Oct 2026 06:06:30 GMT",
-      "snippet": "Natural Gas and Oil Forecast: Tanker Attacks Rattle Gulf, Can WTI Break $98.31? FXEmpire",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRVlDY0pGMEtGQXFvZnR5NnBIN0ZVdzdFYXk0Vy01cTNWR1R2ZW13WTJHSFJ5UzdkTnoyWXkwdTVMRUt2V2ZzMnF0UzI3cVVXWVpLYnF4Y19VaTQ1LVNjeG5vSkxvczVYeFJVMGY2aGhFeEJyT3dzMnNnNDBreF9Ibzd3OEpnTVNEUHNWcTlFT0RCSTV3eXNXRlBHblF1S1Mwc0NBMk91YlV3WVhpdjNRN1JnUW5aR05TYk4xWXI5SW1WZ2o1?oc=5",
-      "inference": "Persian Gulf maritime security threats risk spiking freight insurance rates and disrupting crude shipments to India and China."
-    },
-    {
-      "id": "0ce4b789c3c7",
-      "category": "China Logistics",
-      "title": "How a US$110 million fishing harbour in Tanzania serves China’s global goals - South China Morning Post",
-      "source": "South China Morning Post",
-      "published": "Mon, 19 Oct 2026 06:00:09 GMT",
-      "snippet": "How a US$110 million fishing harbour in Tanzania serves China’s global goals South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZjh0dlJrR3drd0FjNjNTNDVpd0ZqU19hZ3Vrd0lZano2VXhtcFIzXzdZaW83U3RTeFlMMzJmSXF5Ymc2M3FtaGJjc18xbVVLQURTMkg3ODllS003aklDVFRwTUp3TnAyYkpobGxpWnhuYUtEZ2RPQVRZNVNsd1MxYUlBdkMxRTY4UVRqSVdyYjQ3SGtKZXREOVdkX29vNUJxRG1lc2N6VWU2cWx0WF9taURlcUJrVDhpMnJFaHVJZG10WFZNaEFJM3U0Vzlmbm1tenIzN9IB1AFBVV95cUxQOC1tNGllMVNzcmk4MDMxUklvVVFKQ1B4U2RoV3hTb1pOY2pKZDVoX1NET2lsM2oxd25lMDlHN2pWRDdJUFUxT042SjR0QkpmLTVTbjRaTGJqY2Nick1pNDBaT1NpZUc2VVlEZ2dvQl9MQVFtc0VLcVNqY2xvMGJtSVRNQ1Nucy1zNUNrbGFESnBKMGtiNEhnSG5aUmpHZURJdzZOZHR6dER0YzZURlRCajdfNG9CbGF0dURjS0tPZm9kTWcydWx5a2dJcnpEdVNUUmNPMQ?oc=5",
-      "inference": "Chinese port investments in East Africa strengthen Beijing's maritime footprint and supply chain dominance across the Indian Ocean."
-    },
-    {
-      "id": "19bc42465847",
-      "category": "China Logistics",
-      "title": "According to Chile customs export data, Chile's total exports of coppe - Shanghai Metals Market",
-      "source": "Shanghai Metals Market",
-      "published": "Mon, 19 Oct 2026 06:00:00 GMT",
-      "snippet": "According to Chile customs export data, Chile's total exports of coppe Shanghai Metals Market",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOTlnVXA4eFQzX0xYNEJvSl9HMmt3dVRDYnNMZlhMamp4RVpYNWVieE1JcVlCRmZDck9hZEFUMnZjQlRDUHV4VldLV3Z4LWlSeEVkSW1ENG5jU3dfWkxBN0NIeVdvOC1aWmpTN2NSd3JWeUFvQ3pmaGw1ZnJ1VnVlTjhxQWxoR3B2bXYtZDhERDZTSkVFcnM4ZE9WTno5aUk5U3NPTGJRb1VVQUt0WkpKUnVVQnJPRE42Ym5SNWxSQVhwX2hObmxLUWlfa2dkT0RrSmlRTTJlWXpLZlA5YVd1NnJB?oc=5",
-      "inference": "High Chilean copper shipments secure vital raw material supply lines for China's industrial manufacturing and green energy sectors."
-    },
-    {
-      "id": "f921311847f0",
-      "category": "Spillover",
-      "title": "What a Morphy Richards kettle tells us about tariffs on Chinese cars - The Telegraph",
-      "source": "The Telegraph",
-      "published": "Mon, 19 Oct 2026 06:00:00 GMT",
-      "snippet": "What a Morphy Richards kettle tells us about tariffs on Chinese cars The Telegraph",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWWJDc1hQSUtWTEg0RC1HY3dKWUMxa2N2NnlqOE0zS0NPWk40QnFkTlJwdkFsS0JfVkNKMEtueDF4VDFKRDhTOEN5UWpicGh6c0I5cWVPTEhrblRRdXFObjF4ek0ydVA0MWpRdGJUM1JkZ2tJaDVVbDBFS3RpZ184OFllMmhmUDF3?oc=5",
-      "inference": "Western automotive tariffs threaten to slow China's vehicle export volumes, forcing logistics providers to pivot toward alternative markets."
-    },
-    {
-      "id": "2fc1aaaa9308",
-      "category": "India-China Trade",
-      "title": "Waaree Energies, Vikram Solar and Other Solar Stocks in Focus After China Proposes Export Curbs on Solar Technologies - Trade Brains",
-      "source": "Trade Brains",
-      "published": "Mon, 19 Oct 2026 05:54:22 GMT",
-      "snippet": "Waaree Energies, Vikram Solar and Other Solar Stocks in Focus After China Proposes Export Curbs on Solar Technologies Trade Brains",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNOTgzZWZ2N3cwcmtuQ2U0WFlyMFUzdnpiVDFDc1BCWVBERzFxTzFTVkN0TXhMaWdXb09CUTVUYmxDR1dtbGp5OGVGaFp6ZnR3QlVqRU1nR2NqLXFGT2xJU19EY2tCX3BDZUE1dzNVWDFDQ3ZxUXI4aUdCQ011bUxCUU9vc1JxeFpzM2EyUXZvY1JLY1IxRk04ZUN0c3BYYkR2NkRQUzNwQzZUeTRUSWlBLUs2TTlPRlJUMEhPcVZrMUcxWmhuYjRSUHI3QnczUmw1Q0pNUlcyakRnaDVheWhqMms1WHdDeElkNVZtZ0g2cnZPMUl4UGc?oc=5",
-      "inference": "Chinese solar technology export restrictions force Indian manufacturers to accelerate domestic supply chains while raising immediate equipment costs."
-    },
-    {
-      "id": "e4bc032c79e2",
-      "category": "India-China Trade",
-      "title": "China's Export Restrictions: Impacts on India's Solar Industry - SolarQuarter",
-      "source": "SolarQuarter",
-      "published": "Mon, 19 Oct 2026 05:44:30 GMT",
-      "snippet": "China's Export Restrictions: Impacts on India's Solar Industry SolarQuarter",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQX0prWVp3SkM0OENHUU81UGNkT3IwMTRialROMEswd3VDbVk4WkVfcXhzR2lETHBVNUVaU19XdDNMcmk3QU9pcUduaThydzJuelJiYWRqMmVMN0Y1SnV2aEQ1ZW1GSHRNVS1aZzBKVVV0a2hDSnRtTGd0ZGFMTFotUGt3Z1hLSENtYlRpZ1BDck5zdnJjbVhwNE9tRWx5ZWVWMFFqNHlVZUF1eUE4WmpiSHQ1VVhPaVZLMy11VGgybGlhMHZDeGRoTXJIT3pVU2JLZ2dlMGh5NGQ?oc=5",
-      "inference": "Chinese curbs on solar exports threaten to disrupt India's renewable project timelines and increase raw component import expenses."
-    },
-    {
-      "id": "88ba1cde7047",
-      "category": "Spillover",
-      "title": "Oil loses more than 1.5% on expectations of higher Russian supplies - Economies.com",
-      "source": "Economies.com",
-      "published": "Mon, 19 Oct 2026 05:43:00 GMT",
-      "snippet": "Oil loses more than 1.5% on expectations of higher Russian supplies Economies.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRExpS2t0d2c1QTBoejRDb3pLY3NiRU1oX1FoQUsyd2I0SFhJamVKUFV2dUgtYWYyLURxdEM4ODdZSEl1Znh0djRuZXQxckFXazFEeDVzUUtMNmQ0YnBlN19IRWRzYXplYzJaaGE5blZIdU1VSlpubGFQYnV2Ym1LWFYyVDhaLURuNzQ1YTJxbmJOVG52aXFHV1BTUEZIWm1JUVNlbkltNGowdk5TTGtKZU1Gd2FBTXQxNHFn?oc=5",
-      "inference": "Increased Russian oil flows keep discounted crude shipping corridors active and lower energy input costs for India and China."
-    },
-    {
-      "id": "ea606057a8ce",
-      "category": "Spillover",
-      "title": "Oil prices decline on global markets - Apa.az",
-      "source": "Apa.az",
-      "published": "Mon, 19 Oct 2026 05:43:00 GMT",
-      "snippet": "Oil prices decline on global markets Apa.az",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZjJ4MGNWMERhb0RnNUNZTDVhR2ZqX2p3TEtmWmJtdWtLdGJUME1nd1VxS3EzbmpMaURUV2lGYjdlZDRJZlRmc2IyZzVTbVQ3Z0hvX1ZGWUJIeWdXSWhBZzRnODV4Y2JpS0U3S3dtUmtldkg2T0xRa29Uc1VMOENvZjR2Tk9XcTJI?oc=5",
-      "inference": "Falling global crude prices ease operational costs for Asian logistics fleets and lower trade deficit pressures in India."
-    },
-    {
-      "id": "b80734733a6a",
-      "category": "China Logistics",
-      "title": "SinoBunker completes Guangzhou Port’s first methanol bunkering op for RoRo vessel - Manifold Times",
-      "source": "Manifold Times",
-      "published": "Mon, 19 Oct 2026 05:38:57 GMT",
-      "snippet": "SinoBunker completes Guangzhou Port’s first methanol bunkering op for RoRo vessel Manifold Times",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUERqLTBwRjAxU0tEQWVoYk5PYkE5eFVHcFNSaFRJQllUaXRzSVpCdnBCSzRnUG83VjdteWJaZVRSYUtxcG1WZHYtMjdGSG5LSGJQY1ZQZ2o3QTNyTUhvNnFndllRZC1WanMyd1NoMlNDblAzc20wZVBoVDdUc2YzRjFGMXV5cEw3QzVBYVdKT0tXdVcyeUhpSmpUS3VpVlVsR01EWE5HMU9OS2ZqeDJWNGF6d3ZydFU?oc=5",
-      "inference": "Establishing green bunkering infrastructure strengthens China's port competitiveness for sustainable international maritime shipping lines."
-    },
-    {
-      "id": "a736befc56cb",
-      "category": "China Logistics",
-      "title": "Shenzhen's trade with APEC economies soars 40 pct from Jan to Sept - Awani International",
-      "source": "Awani International",
-      "published": "Mon, 19 Oct 2026 05:32:54 GMT",
-      "snippet": "Shenzhen's trade with APEC economies soars 40 pct from Jan to Sept Awani International",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZm9Id0otdlRGOHdrOF9rUEoydC02akVQMHhNUEY3aUJxYVlmX2tVc25oeGI2d01iUlpoR2lWYlFtZzZaU1FGZzFja1p3bS1ldjAxbnNXRElYZXhPbFE5TFE2NjAtNmZpX0dVR1NpWnJHZWhlUm5sMTM3amV3TEYwUEJ6SjhucXZVNzFxSzhJTEZrRTlDbkZoM01zNjBET24yRnlGNVBR?oc=5",
-      "inference": "Strong trade growth in Shenzhen signals resilient tech manufacturing supply chains and high export container volumes through southern China."
-    },
-    {
-      "id": "a21db5006d39",
-      "category": "China Logistics",
-      "title": "North Korea-China Trade Reaches $2.27 Billion from January to September, Up 18.6% On-Year - news.sbs.co.kr",
-      "source": "news.sbs.co.kr",
-      "published": "Mon, 19 Oct 2026 05:32:25 GMT",
-      "snippet": "North Korea-China Trade Reaches $2.27 Billion from January to September, Up 18.6% On-Year news.sbs.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yUjRXckVGVjNyUUwtU0hjUkFTUno0VHpLaFNqWWpVX2hJYUFuYkN1VFh3NlZHNUJ4QjF4Z1U3UjRtalZHTXBMUXg3NUVraGtKcXhqR05CZWUxOE1LSTlpMFlrNi16OWZzMlFpdjJ3?oc=5",
-      "inference": "Expanding Sino-DPRK trade highlights growing northern border logistics activity and land-based freight flows into China."
-    },
-    {
-      "id": "0023f00c12d7",
-      "category": "China Logistics",
-      "title": "China’s Economic Growth Set to Miss Target Amid Energy Shock, Weak Demand - TVC News",
-      "source": "TVC News",
-      "published": "Mon, 19 Oct 2026 05:30:00 GMT",
-      "snippet": "China’s Economic Growth Set to Miss Target Amid Energy Shock, Weak Demand TVC News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQjU3NDI3VTVHVEN5cUdJeEp5Q1BMbWlFOTlGZTYyUjVhVnZCbEpyRVB0WndjNWNueWxNVERXWUpERlFHM1Z2TFJ6MUZJRWdEVmgtWlQyS3FzSG80dndRVXk5OWdfempzVjJycXYtQXEtcDh1U1BZMEFJQTB0c1Z3dWQ5dVI5YVNNZ2FCWGxlenFjQWhnWjM3aEJrUQ?oc=5",
-      "inference": "Slowing domestic demand in China weakens industrial raw material imports and reduces outbound container shipping demand."
-    },
-    {
-      "id": "1053e0baf5a4",
-      "category": "Spillover",
-      "title": "WTI Forecast: Pulls back from one-month high but uptrend holds | FXStreet - شبكة تواصل الإخبارية",
-      "source": "شبكة تواصل الإخبارية",
-      "published": "Mon, 19 Oct 2026 05:26:57 GMT",
-      "snippet": "WTI Forecast: Pulls back from one-month high but uptrend holds | FXStreet شبكة تواصل الإخبارية",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MTHd2aS1RS0tEMnhHbDFZY0llamFMRnJsU2JrY3hkZFQwX20xZk5VU0lpbzkwSUsyT3hTRzNVaFk0ODFsZ19uS29mN0lmTmg3NHZJ?oc=5",
-      "inference": "Volatile crude prices maintain uncertainty around fuel surcharges and freight rates across Asia's major maritime trade corridors."
-    },
-    {
-      "id": "030b98929b9e",
-      "category": "Spillover",
-      "title": "Rupee rises to 94.80 against US dollar, but crude oil threatens recovery - The Times of India",
-      "source": "The Times of India",
-      "published": "Mon, 19 Oct 2026 05:23:00 GMT",
-      "snippet": "Rupee rises to 94.80 against US dollar, but crude oil threatens recovery The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQzNESUswTFZFMGVFSl9fc1BmSkhtTlJKa1VTNWVVVG1jTDQwRmdKQ21VdWdtRzZrbmlKN0taQTdHd3BieldoVF9CTXNONjJLMnQyeXZ3YTRONXNHY2FyS0lFWHFJRUVDLUZqNU5Ca0ZGRkhJWjFnMzRyd2NKTkVva1FGZGZmOW5JUFlUaGFYODBaOVh0OVRQZkY1X1FGZEJPQVN2TWloay1HdldZajlDa1ZTcjVhbVdLMWlwNjBBVXE4SUwxSjI4bFhrMHBsT2JGRG5pMkRXSFQteV82MDRic2h3WWRoTm0zcmVYNlZR0gHzAUFVX3lxTFBKQ293bW5sejZXejRwbjFXbW5OLUVkbEVRazNHVlF3ODFYZnJydndGZHdsS29GYWd2czcxUXZKTkZxUVllR21vTm5Dck55WDM3OTFPTHF3UVJFTnNqcmN2V25lLV9HZklGV2JVN0lqeFZWenEtazd0ZGJzZmN3MkNJVzZfcXNURktTS01INGVWTTA4Z2pPMjRKMXRsSmZGRGxKbkp1UnBiRmtpekZZMGN5cHAwRlozaTNLZlRoS05HMnRQNGNJTFNGczlVRkZsaHVtbm55RVQ4WXVCSTJxdktLUHNvTEd2N2hlLXltenVjRDBjVQ?oc=5",
-      "inference": "Rupee volatility tied to crude imports threatens margins for Indian importers and drives up cross-border logistics costs."
-    },
-    {
-      "id": "cccab43f2676",
-      "category": "Spillover",
-      "title": "Shafaq News..Oil prices ease after US Russia sanction relief - شفق نيوز",
-      "source": "شفق نيوز",
-      "published": "Mon, 19 Oct 2026 05:22:06 GMT",
-      "snippet": "Shafaq News..Oil prices ease after US Russia sanction relief شفق نيوز",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQODFuWS1sLXJ4YXRyWXdBYmNISEI0TlljMnlnNER5eXBIUE84OFQtU3JidHVHSVRNRVJZcmstRzVKMjNobTdiRVRDdjRwTlRYcGR1OTE5QUZlNnlyYm5Xakh0OEtVY0Z3NF96NU1lbTctNDdKOU5kd09IYmVUYTRTMXhFOA?oc=5",
-      "inference": "Eased Russian oil sanctions stabilize global crude supply, easing freight cost volatility for Asian energy logistics routes."
-    },
-    {
-      "id": "af3040c61bb4",
-      "category": "Spillover",
-      "title": "Iran releases currency exchange rates for October 19 - Trend News Agency",
-      "source": "Trend News Agency",
-      "published": "Mon, 19 Oct 2026 05:15:51 GMT",
-      "snippet": "Iran releases currency exchange rates for October 19 Trend News Agency",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Ucnpwc2lFOC14UnFRX3BHUWpGUjF3bVhDVG0wdmQySGR0THhiQUdxT3N0cEgwbWR2MVZqazF0Ty1BZ3pHR0pEYjlRYnNGMEk?oc=5",
-      "inference": "Iranian currency fluctuations impact overland trade settlements along INSTC trade corridors connecting South Asia, Eurasia, and China."
-    },
-    {
-      "id": "e9e19b3726d2",
-      "category": "China Logistics",
-      "title": "China's economic growth picks up as exports boom, consumers balk - Central Oregon Daily",
-      "source": "Central Oregon Daily",
-      "published": "Mon, 19 Oct 2026 05:14:43 GMT",
-      "snippet": "China's economic growth picks up as exports boom, consumers balk Central Oregon Daily",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPLVQ3dXM5Z3ZWTnh1RU5FQkJnMEluZFM1VUJBZHZTX1VMZ2Z6TzJNaFUtMVB6T1hMcW1kS3pRMGh5OHN0NUt5VzU4UGhCQ3ZUdlVIU2tsT0N0VEUyZklGbjBlZkdZLWI5LUljRzhPdExGekN5U3RXRWs3c01ZYlBlalhoR3lpSlFuOTRodnAxUWwtU0RCeENyU0hFNllZSVc3WDkyYVZBZV9oVEVwUGFBWlI1ek9vQ2o3REZkY1gyQmNCcVRMNVhRcEo4cHF3X3hWMzQ3em9PNEtLVC1ySnY5UGpDQjNob2cyLURpbXRtZUJoakk?oc=5",
-      "inference": "Export-led Chinese growth maintains heavy outbound ocean freight volumes while weak domestic buying caps inbound container trade."
-    },
-    {
-      "id": "d73f73155ad9",
-      "category": "Spillover",
-      "title": "Rupee rises 22 paise on RBI intervention despite crude oil pressure - The Hans India",
-      "source": "The Hans India",
-      "published": "Mon, 19 Oct 2026 05:08:55 GMT",
-      "snippet": "Rupee rises 22 paise on RBI intervention despite crude oil pressure The Hans India",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNDVIdTJ1aTZNR3hJUUk4V3NBaVJyX2w4dUNCQ296N0JCaEU2SGJMdnQySW82V2NadzBOdVdkTHpYOHBsNF8yaUhLdUU3ckpYVk5VdUc5c3pKSzZpRk5DLXFhSUdvd2NiQ3BmV1Frd0Iya0NhUDZhZnVobUdKZHJjZDl4cXpyRC10Ry1GQ3Rjc2I5RW9lSTduMzBjOXhnYnlRWTRMRUhMbEV4Ymk3Y2FHZEg1YXRjVzQxcUxWQkt6T051UEZjM19v?oc=5",
-      "inference": "Central bank intervention offers temporary exchange rate stability for Indian freight operators facing high dollar-denominated fuel bills."
-    },
-    {
-      "id": "b23252c20652",
-      "category": "Spillover",
-      "title": "Global Market: China’s yuan hits four-year high as strong GDP data ease stimulus concerns - The Economic Times",
-      "source": "The Economic Times",
-      "published": "Mon, 19 Oct 2026 05:06:00 GMT",
-      "snippet": "Global Market: China’s yuan hits four-year high as strong GDP data ease stimulus concerns The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPQld1bEQwWHBXMEpUTWh6RE9acUVtMFBQcFhJTEdxOTZvMGItSnJad0pOQ1FjbFdDdlFKYWdLQzRFdlp1RUFLRzFjQ29rb2pXOFZQSURsSWk5T3lqNGJPQ1NMQlZyazQxcjZXdGFWYTZGRkVTanZIc2wzTWc2TC1PdHVYTDFDMHFoc19KcFZ1TmtnOV9ScF83R3ZfN0phcHpKWDVfQjVYMWtwTkNCR1VXQUhEWWVHWGNSNEJmOEozTWE4WnlxWkhqc1hYWjI1TV9JLVVfQXNWX1VHYWRFT0NXS0R0NlFvTW1CeHN5N3pGZUpDU1ZXUDI2VFVHTi3SAfwBQVVfeXFMT0JXdWxEMFhwVzBKVE1oekRPWnFFbTBQUHBYSUxHcTk2bzBiLUpyWndKTkNRY2xXQ3ZRSmFnS0M0RXZadUVBS0cxY0Nva29qVzhWUElEbElpOU95ajRiT0NTTEJWcms0MXI2V3RhVmE2RkZFU2p2SHNsM01nNkwtT3R1WEwxQzBxaHNfSnBWdU5rZzlfUnBfN0d2XzdKYXB6Slg1X0I1WDFrcE5DQkdVV0FIRFllR1hjUjRCZjhKM01hOFp5cVpIanNYWFoyNU1fSS1VX0FzVl9VR2FkRU9DV0tEdDZRb01tQnhzeTd6RmVKQ1NWV1AyNlRVR04t?oc=5",
-      "inference": "A stronger yuan makes Chinese export goods slightly more expensive globally while cheapening raw material imports into China."
-    },
-    {
-      "id": "9c15c405074d",
+      "id": "8acc1be90d4e",
       "category": "India Logistics",
-      "title": "Tiger Logistics Q2 Revenue Surges 33% to Rs 225 Crore; Quarterly Profit Jumps 169% to Rs 5.85 Crore - PNN Digital",
-      "source": "PNN Digital",
-      "published": "Mon, 19 Oct 2026 05:04:31 GMT",
-      "snippet": "Tiger Logistics Q2 Revenue Surges 33% to Rs 225 Crore; Quarterly Profit Jumps 169% to Rs 5.85 Crore PNN Digital",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVmVrZ1lLQ2h3Tkk5YVh6SW5aRUhmWHBjV2ppU09XX2tZOHBYZS1TWFAwbWgyaU9mNXk4UjNWeTI0RkJ0cVdwNG5iMkdxQ3FZRFVyazR1ZUNHalJ1MnVnMVRWMnhfQlBzM1ZCdnVqUlo3ZU1nSnQyT3RMaTIwMUJxUjJtOFNZdkV5cjA5ckxUTlNTd1lTczBPZ0hvS0NTX2NLMVpyUUZZT2NDbHRtU1dTSmNkTnhQYTlaR1c5c29Zdktab18wSXV4VA?oc=5",
-      "inference": "Strong financial growth at major Indian logistics firms underscores surging domestic freight activity and expanding EXIM supply chains."
+      "title": "Aramex Strengthens Logistics Network with Ahmedabad Expansion - SMEStreet",
+      "source": "SMEStreet",
+      "published": "Tue, 20 Oct 2026 05:39:37 GMT",
+      "snippet": "Aramex Strengthens Logistics Network with Ahmedabad Expansion SMEStreet",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQXduRkFaUHhxQ2dPUGlZZmxkcVJLU1NUN1d0b3k2VUdQU1VNTnNNRE45SjVBR1ZKb3F2M0lNYnVZZ3VGOTMwU3lsSDcydUVCd2FWNEFNNFc1Vlk2TUFtV0hsRjdqcEcweXdsTGVGVzNPOHBmMGJTQUNOY1lJM2F0Sm4tbzFWUXZrbVlDc3pPcEFVVGJrdF9oRkhyRjNfMkl3?oc=5",
+      "inference": "(inference unavailable today)"
     },
     {
-      "id": "8fed60f93a2f",
+      "id": "9f7c6d2f951f",
+      "category": "Spillover",
+      "title": "The US-Iran war disrupted two of the world's most important oil trade routes. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "published": "Tue, 20 Oct 2026 05:39:17 GMT",
+      "snippet": "The US-Iran war disrupted two of the world's most important oil trade routes. Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUGNwRDJmNmNTQjR0VndqSXNiU3ZUS2k0S3dCallQUGtIOGotR3pnQzl6OWhqdlNpNDhyOGZNWlZlajA5MVYxV3hyazloNnE5bjljb3kwYVRRZkVUOFdwUHJIc3BXaFhLNkxkY0dFLU1tX0V6MmZPUHgtZ0hrbFFPN1FJU0ZGVUZYWFMxZUowN3lkeVJrZ2V0djdBSktrZ2ZXdUwxZmZYVnpOQQ?oc=5",
+      "inference": "(inference unavailable today)"
+    },
+    {
+      "id": "d116f124ccbf",
+      "category": "India Logistics",
+      "title": "DP World Extends India Championship Title Partnership Through 2035 - Golf Industry Asia",
+      "source": "Golf Industry Asia",
+      "published": "Tue, 20 Oct 2026 05:33:41 GMT",
+      "snippet": "DP World Extends India Championship Title Partnership Through 2035 Golf Industry Asia",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVTdoYkJVUzdhV3IxcFpTeGM3YjFlUVVLZUNzOWdUdkE4dlJCWVpOY0FUcnpkV29wTVFmenVkNG1ZZDNFZXZQRWVabUwxZXhpb0dvZG5NblYxcDI0VFkxZ0NldDI3ZkRoTnhBaU16bGhxVGlLeE56cjVHX01VZVZoaTM2OURDXy0wT0lKQy00bi1TbWozNDMxMTUxMHVvUQ?oc=5",
+      "inference": "(inference unavailable today)"
+    },
+    {
+      "id": "d453976aa21d",
+      "category": "Spillover",
+      "title": "RBI Measures Boost Rupee | Is Further Depreciation Unlikely? - Business Today",
+      "source": "Business Today",
+      "published": "Tue, 20 Oct 2026 05:30:08 GMT",
+      "snippet": "RBI Measures Boost Rupee | Is Further Depreciation Unlikely? Business Today",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcmQ2NTE1SEFLLVBtbng0VHBoOXhwajRBMVZZc0plSWpsUG0zYWpTc3ZtV2hxdDlYV1VyTjlndXNBN0dXbVJTYWFLa1JmTWtPSk9oNFhUc3ZBOEtuQUNvMDFZcmdqaWEzbi1LMlkwZ2NPWE13NFJsV3ZkRHp0WTZ0UWN3cC1vVkRZUmRvREFDSnEwbzA5UWJ1OGdFNl9uVzVzaWJlRGxxVW5iZGVyclJfZ0xpWjBEaGFLVHNXeHNEdTNIMUdOOXd0MDdhM2Q1Z9IBzgFBVV95cUxNcmQ2NTE1SEFLLVBtbng0VHBoOXhwajRBMVZZc0plSWpsUG0zYWpTc3ZtV2hxdDlYV1VyTjlndXNBN0dXbVJTYWFLa1JmTWtPSk9oNFhUc3ZBOEtuQUNvMDFZcmdqaWEzbi1LMlkwZ2NPWE13NFJsV3ZkRHp0WTZ0UWN3cC1vVkRZUmRvREFDSnEwbzA5UWJ1OGdFNl9uVzVzaWJlRGxxVW5iZGVyclJfZ0xpWjBEaGFLVHNXeHNEdTNIMUdOOXd0MDdhM2Q1Zw?oc=5",
+      "inference": "(inference unavailable today)"
+    },
+    {
+      "id": "60c84c1e5bc9",
       "category": "China Logistics",
-      "title": "UAE delegation concludes China visit exploring strategic partnerships in energy, advanced technologies, sustainable transport - Big News Network.com",
-      "source": "Big News Network.com",
-      "published": "Mon, 19 Oct 2026 05:00:00 GMT",
-      "snippet": "UAE delegation concludes China visit exploring strategic partnerships in energy, advanced technologies, sustainable transport Big News Network.com",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNS1E2Tmo1Y2d3ejlKeDhCZjRPUzFzWm1Sdm56cTdyTmZJMVFhbEtqal93alE4N2NLejhwbFlzekgzb0s2R1hTd3N0LWloYlI2bkh1ZTlSZ2g4d0l6NmVpdEFxcmpuQnB6cEpNVEM1NUdyQjRLMlVhZ1lfc1NuekF0QlhfLW9HU01NM0ZRN09icVdxajRoMG1CVk5wb1FvS19QNWRCM1d1UnRIM1kxZENzRDZRdjhOUjRkVEg1aTJ5RU1UUnRaMmdhSGxIRjhlSUphbmJBUWUxNnA1SldsWGxqU1I0T0lsNVZnMW10eWNWS2Q3OFh2NkVZTlBRMjltZw?oc=5",
-      "inference": "Expanding UAE-China strategic ties will boost Middle East-China trade corridors and green transport logistics investments."
+      "title": "Pakistan-China hockey ties gain momentum as Guangdong team arrives - Daily Times",
+      "source": "Daily Times",
+      "published": "Tue, 20 Oct 2026 05:29:51 GMT",
+      "snippet": "Pakistan-China hockey ties gain momentum as Guangdong team arrives Daily Times",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORmwtSG9RQzJmclAxejJuelE4VHVicFRSbjA3Vm96eFNvVEtaNG5nWXVuNnI5VWItd21wTkNSMzAxLXFQTzlQX2x5V1Y3S29pNGFNZXZsc0FGbi1ZWlFtY3R6Q1lhR2YtX1NBRlB3SWV3UTJ4c3VqYmx0ZTVLakp4WWV2WWtRSmZneHRrR1VlVzFIdVBzdS1TRDFCVUoyLW9oLWVB?oc=5",
+      "inference": "(inference unavailable today)"
+    },
+    {
+      "id": "e772c93adaf5",
+      "category": "China Logistics",
+      "title": "M'sia in talks for overland route to cut durian export costs to China - The Star",
+      "source": "The Star",
+      "published": "Tue, 20 Oct 2026 05:19:00 GMT",
+      "snippet": "M'sia in talks for overland route to cut durian export costs to China The Star",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTnlBVDdRalBoSEMxZWZNU2JiWXB0R0JXcXVLOXk1OE1OZ2lPVVlkTUNkbnJ4Rm1FTHNXNHlLelpKRE1jTXFiS0RhZHlYdTNoUnJzb2ZaMlJGZGtucWZhQUtfZ0lFOFJKWHdPLWdqdnZYYW1wdHZQNGg4T0hrZ3hxN3AxejFWaEpQVGVxeElfbWVtb282eVZkdFN2UEppcVRDemNKY0pIRldsNHljX0FkUzUzWE1qS0YyOTVpYXh3?oc=5",
+      "inference": "(inference unavailable today)"
+    },
+    {
+      "id": "f980bd1c9bf1",
+      "category": "Spillover",
+      "title": "Asian currencies firm as dollar retreats; yuan hits four-year high - Investing.com",
+      "source": "Investing.com",
+      "published": "Tue, 20 Oct 2026 05:16:15 GMT",
+      "snippet": "Asian currencies firm as dollar retreats; yuan hits four-year high Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMW04eUZWUmpDN0FmU2h0REl4UHdrOVhmX2pIcmg2SmtidFd0Z1hQdW4tek80a2R1YkJTU05MczV6WWRQTVo3SFFzY0tEWXUxb3NremtXMkV3alVqNndfQ1FmeGxOeDVOcllaV1Awekk0aDR6MzMybmtLeF9IMUJOSzA3dXZVaExZZDJIU0dDZGJWSHYwa1ZFbEd0b3RTMUROb0M0d2pnMmhOUkxTM0lWUFFpVQ?oc=5",
+      "inference": "(inference unavailable today)"
+    },
+    {
+      "id": "a84689a9a593",
+      "category": "Spillover",
+      "title": "Indonesia Lags Behind Vietnam in Tariff-Hit US Furniture Export - Jakarta Globe",
+      "source": "Jakarta Globe",
+      "published": "Tue, 20 Oct 2026 05:16:00 GMT",
+      "snippet": "Indonesia Lags Behind Vietnam in Tariff-Hit US Furniture Export Jakarta Globe",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYTBEOEVUbEVZREg3ekM5Q1ZRV1FhWF9wZFA0SXd0Q2haOU11U1J3b2dpSl9VbnA1Rk9DeDdhRER0STVTM1RYdVMwLTVZR3ByazVqeEpsZThLMjRINXpFZTdKSk10ZDRXVlE5RlVnOTdJdTV0QWdaWXg1QVp5M0F0MUJsRURYSnZCOTVXc08wdTZUdkRwS0JrQlFabw?oc=5",
+      "inference": "(inference unavailable today)"
+    },
+    {
+      "id": "b7cf26900fc2",
+      "category": "Spillover",
+      "title": "Oil prices rise on global markets - Apa.az",
+      "source": "Apa.az",
+      "published": "Tue, 20 Oct 2026 05:00:00 GMT",
+      "snippet": "Oil prices rise on global markets Apa.az",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTTVaOTVvQ0s4VEc5THpocUtwQi1qQl9iemFTQVJUamRiV0V0TG5oZjFUMm1ycEE3ZVJ1aF8zYWNoOXk5NFNNUXBIQzF2alBZVXZuVHJHTzhBX29adUpuM0JFUGR5a2NCLVBmTXJpejhjYkFCbUp3X0V5TzZRckVVcmw4eGc?oc=5",
+      "inference": "(inference unavailable today)"
+    },
+    {
+      "id": "3d1e2dde8b9f",
+      "category": "Spillover",
+      "title": "Brent Tops $110 as Tanker Attacks Threaten Persian Gulf Supply - Crude Oil Prices Today | OilPrice.com",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "published": "Tue, 20 Oct 2026 04:56:06 GMT",
+      "snippet": "Brent Tops $110 as Tanker Attacks Threaten Persian Gulf Supply Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZDhOZzVBajE0djhsTUpNaS1QdlR6THhLUld2ZTBRZ1dhQ1BfaHpweFI4clJrNERGOTdyb1ZoWHJDeFY2ZE9uS2Eta1NfWUlqX3Q5TXNDS2xldWZRZjVHZFU3RDgwX0xIR3ZSeE9ockstTnZOMEhjZEljQnZ3RF95azVjcnpHblVyRUJGaUk0eFJxRXJLTV9pNVA5ZDA5VVJLTlEtamRibWd0eXFNc0JpZTAtRXJueW52VnI3NmxR0gG-AUFVX3lxTFBkOE5nNUFqMTR2OGxNSk1pLVB2VHpMeEtSV3ZlMFFnV2FDUF9oenB4UjhyUms0REY5N3JvVmhYckN4VjZkT25LYS1rU19ZSWpfdDlNc0NLbGV1ZlFmNUdkVTdEODBfTEhHdlJ4T2hySy1Odk4wSGNkSWNCdndEX3lrNWNyekduVXJFQkZpSTR4UnFFcktNX2k1UDlkMDlVUktOUS1qZGJtZ3R5cU1zQmllMC1Fcm55bnZWcjc2bFE?oc=5",
+      "inference": "(inference unavailable today)"
+    },
+    {
+      "id": "b6413244c5b6",
+      "category": "Spillover",
+      "title": "Oil Prices Up - 19-10-26 - Armenpress",
+      "source": "Armenpress",
+      "published": "Tue, 20 Oct 2026 04:40:00 GMT",
+      "snippet": "Oil Prices Up - 19-10-26 Armenpress",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qUU9sSmVFRko5Q0hyclBfa2tIWkUyUmJGSWdNamw3R0xZTHZSX1paRVoyMi15QlRPS2tRQldmTWc1VGZsSm5qUGMxUW12TFNBaVHSAVdBVV95cUxNY1hwaGpZdFpqQ1ZseTFpOFktUDU0WWctSzRmYTd0ZHFfSDJkdGpUY1pkRGNtcFJ6REdpcWZQSmJ3aW1JX3l3b1pIMEYwYWZWanJPSy15VFU?oc=5",
+      "inference": "(inference unavailable today)"
+    },
+    {
+      "id": "40963c518fd5",
+      "category": "India-China Trade",
+      "title": "UPI Processes 24.07 Billion Transactions in September as India’s Digital Payments Boom Continues - www.nationpathindia.com",
+      "source": "www.nationpathindia.com",
+      "published": "Tue, 20 Oct 2026 04:34:39 GMT",
+      "snippet": "UPI Processes 24.07 Billion Transactions in September as India’s Digital Payments Boom Continues www.nationpathindia.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNEpma1VRMlNiNUN0TlVjUGhCR3VfeTNUa3Y1X3F3SFZvc1BrUmVtMURCLS1OZkFxa0NWYkNwTWFXOENwX1haREpMdC1SMF9kU1dNdmxMbk55WWtZa1RCRjJhakhVYWZiSkxYTk0tVk5PTF9lS2tXX0lMbllsS0RZVDJlXzBSYm54UVRGUw?oc=5",
+      "inference": "(inference unavailable today)"
+    },
+    {
+      "id": "49eb8b859d8a",
+      "category": "India-China Trade",
+      "title": "China seeks tighter controls on exports of key AI technologies - India's News.Net",
+      "source": "India's News.Net",
+      "published": "Tue, 20 Oct 2026 04:34:35 GMT",
+      "snippet": "China seeks tighter controls on exports of key AI technologies India's News.Net",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVjVWNXl1b2JUaEJzbTBudFFLNVNkVEs3X2lSYnVlaTd6b2kzbmFBMzVaWXgyLVJIRWktVDExN0hYU0pZeTR1ZDF3em5WOTV0Q1FtazBmeFFPdmpYcUhQbE9xamU0Sm9Jc1hPMGVFbUVCZlMwV0dtMy1SY1FfM3Riem5hcUZLQTJQX3JUanBqS2hrNmR2QTZYU01EbUFDSFo4X21KeUo0NA?oc=5",
+      "inference": "(inference unavailable today)"
+    },
+    {
+      "id": "c4c578143e67",
+      "category": "India-China Trade",
+      "title": "Top 10 Countries Leading in Solar Panel Manufacturing - وردنا",
+      "source": "وردنا",
+      "published": "Tue, 20 Oct 2026 04:27:41 GMT",
+      "snippet": "Top 10 Countries Leading in Solar Panel Manufacturing وردنا",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRFVpMGo4N1R5N1lJbF9qTEVXM05faFhISWE0MV9VQlJRRmdwR1ZLTDltanV5aFR3ejgzTHl3SXhKaFRzOEREUzRMT3k5elg4dUI4OGVvYk9WZmhUTkQ2dW5aR2RuSGZmN19ORVJ6aHNhVlQwck9oUGUxM0piaEJPRzBnWXpzX05Oa3U3S01vNTRyWUhvN2EtZkVwMWpVdw?oc=5",
+      "inference": "(inference unavailable today)"
+    },
+    {
+      "id": "f442dfc69d79",
+      "category": "China Logistics",
+      "title": "GOGOX Sells Mainland China Business for 1 Yuan, Plans Rename to GOGO Tech in Overseas Pivot - BigGo Finance",
+      "source": "BigGo Finance",
+      "published": "Tue, 20 Oct 2026 04:25:00 GMT",
+      "snippet": "GOGOX Sells Mainland China Business for 1 Yuan, Plans Rename to GOGO Tech in Overseas Pivot BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUcXBLWG5BemhPNUIyeUNpcVFiUmVCeDNYYzFZQ0VLVDFsS1VzTUEzUjNIZHhKVDVwczFzek1JRWVhLTZLUFM3amhwQWJOc2ZTMFBwakJ3TVpna1VLdDZnaHZodl9udm41UkpTV0Z1Zk5lMGp0X0E?oc=5",
+      "inference": "(inference unavailable today)"
+    },
+    {
+      "id": "79d6ab0b4f70",
+      "category": "Spillover",
+      "title": "Rauf Aghamirzayev: Azerbaijan is becoming a key crossroads of Eurasian transport routes - INTERVIEW - Latest news from Azerbaijan",
+      "source": "Latest news from Azerbaijan",
+      "published": "Tue, 20 Oct 2026 04:01:25 GMT",
+      "snippet": "Rauf Aghamirzayev: Azerbaijan is becoming a key crossroads of Eurasian transport routes - INTERVIEW Latest news from Azerbaijan",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOWg0djFWaUx0bmthazZ2ck5qSkpRZkJ3bFpwWk1yWUlJLW5yMGlNcFRUOXlzR1NCQTc3Wkh4VFNDdDctVlpSbHYtZElBRW03ME1CTndMR0NCWHZ4LU05RS1STUpRRWFrYlJJc0llUG51ZmtrSTZ3bWpndkNLVWgtMlhJZHlhMmZvWXgxQVgwc0gzQk1GbnAycVd6Y2ZFQ0I0TU5DZ1ZhclpNcUR3eVdWRnNFZHREQTFU?oc=5",
+      "inference": "(inference unavailable today)"
+    },
+    {
+      "id": "ecdc34b6b36c",
+      "category": "Spillover",
+      "title": "CYH Shipping lines pockets with quickfire sales of three VLGCs to Middle East buyers - TradeWinds News",
+      "source": "TradeWinds News",
+      "published": "Tue, 20 Oct 2026 03:59:20 GMT",
+      "snippet": "CYH Shipping lines pockets with quickfire sales of three VLGCs to Middle East buyers TradeWinds News",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNREhoOTVqVERLSW1VVGJOUVo5V3M1T3dIQTZKaXRFbXpScFY1TnVvNllPaWZEOE1FVVlWdmMzMDhqd3pnenJ4QXg5ZWpmeXF6c0lpaldjLUEwLS1sbF8wWWZfZ0VUcjNKNkVmMFRScUpkaS1pZ0JnSS1LemthY3J2eDNpZkRxand2QXl0aVdRVWQ5ZXZ2MmJyaHA2c1Z3TFB2dVdFeGctUHRSeU5MT1RSUTlBbktSaDlpRzJQSEFsSTFrbVY5V1FrWmNWaw?oc=5",
+      "inference": "(inference unavailable today)"
+    },
+    {
+      "id": "c61bed96b7a1",
+      "category": "China Logistics",
+      "title": "September lead concentrates imports see phased recovery; will October imports continue? [SMM Analysis] - Shanghai Metals Market",
+      "source": "Shanghai Metals Market",
+      "published": "Tue, 20 Oct 2026 03:40:00 GMT",
+      "snippet": "September lead concentrates imports see phased recovery; will October imports continue? [SMM Analysis] Shanghai Metals Market",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYUEwemFtQlROLUpuZ05maGVOZXhlRXp0a25HaXZtV1dYc0RrRzBtRHVZeFdBWHh5Q090dTBST3ZUakU2QWpzZUwxeGJuNkFHM1ktNzRFS1F1OGE5enV6WmN0Zy1naXRHWEVOZFBkb3pHRjh0ekM2SG1LeTdqSUFXdzhxUjg0STJXSm9QRjJobU5XejQtUUtya0lQMlUtTTU0aWRwb0JsWDNlUDR2aHpSaXk0MUpaYllib2dBbWxDQVhCQkJpM1doLWk2UmVVOXU5bkhJQ0tMaTNjNk0?oc=5",
+      "inference": "(inference unavailable today)"
+    },
+    {
+      "id": "31c3b18f391c",
+      "category": "Spillover",
+      "title": "BTC to INR: Bitcoin Price in Indian Rupee - CoinGecko",
+      "source": "CoinGecko",
+      "published": "Tue, 20 Oct 2026 03:30:40 GMT",
+      "snippet": "BTC to INR: Bitcoin Price in Indian Rupee CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PTW5semFLSXhGRzI4cWZxMjJfc012QmZfRkFxbDk1d3Q1ZUpjX3RfVEhWNi1Ob3UwSFFFRHpQMnVQemN5VFpJQWhwRWRFanJaOHppaFFIaGlUdw?oc=5",
+      "inference": "(inference unavailable today)"
+    },
+    {
+      "id": "f1adb6274f26",
+      "category": "China Logistics",
+      "title": "China's primary aluminum exports in September 2026 were approximately 45,000 mt, up 104.2% MoM and up 54.1% YoY [SMM data] - Shanghai Metals Market",
+      "source": "Shanghai Metals Market",
+      "published": "Tue, 20 Oct 2026 03:29:00 GMT",
+      "snippet": "China's primary aluminum exports in September 2026 were approximately 45,000 mt, up 104.2% MoM and up 54.1% YoY [SMM data] Shanghai Metals Market",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeDFUbzl0b1VpMGhRLWFqbHhQUVRRYzJzeU5IY2dFcnEzR2QtZzBTeDBtbjh3b3JMb3QxVDI2OExIcXFuYms3UnUxaFpDLVg3UjkxNTBzakQxbE1GVVdqYjhweEdYRzR2V2hleGZRZnc2dGZsaUdEaTVuM1ZYcEVxaFRnbGRHc0M2SGl3cXhaU19CZTVTczJDcWZ1Z0VQRFhqb2k4NGZrbXNKN0xuSDZ6ZW9MRHRsM0NoUFBJWE1DWGc3UzhnZlZxN2l0OVlZZFFQUDVzb1BGUEJxMDktNEx4UkRXMUo5cV9JaHRDbXVTNA?oc=5",
+      "inference": "(inference unavailable today)"
+    },
+    {
+      "id": "e385cfc56151",
+      "category": "China Logistics",
+      "title": "China's primary aluminum imports in September 2026 were approximately 172,000 mt, down 7.2% MoM and down 30.3% YoY [SMM data] - Shanghai Metals Market",
+      "source": "Shanghai Metals Market",
+      "published": "Tue, 20 Oct 2026 03:27:00 GMT",
+      "snippet": "China's primary aluminum imports in September 2026 were approximately 172,000 mt, down 7.2% MoM and down 30.3% YoY [SMM data] Shanghai Metals Market",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNU0xWNTV6MWVkSzhVRURxcG1BNktxaGhqV2lINXdfU1RBWVhxYnYyOW5STk5IUmFKTDF2dElVTDZ6eHlyMUs0a1hQVmJ4ZkU2Q25CaEk1RWxVYjdPcTU1aEtOUHk4Tl9Odk5CNWJGVFNjeWhla2FMeHRWSnZfRF9wc2RUaERkTE9BTXUwOWtOOWJSeDk4MWd5Q2R1WGlCVlgybFUwVUpuOWlaSDIxcTBNMG5McWZYUU4wbVU3bi1oV2U2My1rVXFBUW8xbzRmb0F5NVFfb2FsdExTX1R0QzNmQlZHZTBNcng3SlFZNDhVZUFtMU0?oc=5",
+      "inference": "(inference unavailable today)"
+    },
+    {
+      "id": "d1660454b467",
+      "category": "Spillover",
+      "title": "Copper Holds Drop as Traders Gauge Risks From US Tariff Policy - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "published": "Tue, 20 Oct 2026 03:05:00 GMT",
+      "snippet": "Copper Holds Drop as Traders Gauge Risks From US Tariff Policy Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTnNUZW5sQktjanBIbW1KZi1ta3lTeHVRbVNyRHotbkR5eXZEVVpXZndRV2hyUXI1T3NhSjB2RjlxZDVkd016UEVGUlNwcmdXUlJUTHVLTUVGYmdlUndQUDJER0VsbkRBX1k5ZFh6Tl9tUk1FSlkzZ2dzWTZpRTM0TUpQTXpKTFRqeTNuZkg4VHlBWVVjUkxNa09YZlRQcENNTUFBT0RVajNJM1d6Z3VmUGY5SQ?oc=5",
+      "inference": "(inference unavailable today)"
     }
   ]
 }
